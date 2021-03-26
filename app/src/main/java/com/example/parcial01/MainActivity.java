@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         //Referenciar
         btnVerde = findViewById(R.id.btnVerde);
         btnAmarillo = findViewById(R.id.btnAmarillo);
